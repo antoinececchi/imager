@@ -34,3 +34,6 @@
 
 #R temp files
 .Rhistory
+
+#Compiled stuff
+src-*
